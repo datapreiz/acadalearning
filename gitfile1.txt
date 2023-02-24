@@ -1,7 +1,6 @@
-My first git file
+My first git file:
 This is a list of DevOps used in companies
 Docker
 Terraform
 Jerkins
-
-
+Ansible
